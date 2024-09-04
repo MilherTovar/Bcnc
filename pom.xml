@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.prueba</groupId>
-	<artifactId>pruebaBcnc</artifactId>
+	<artifactId>pruebaTec</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>pruebaBcnc</name>
-	<description>Prueba para Bcnc</description>
+	<description>Prueba</description>
 	<url/>
 	<licenses>
 		<license/>

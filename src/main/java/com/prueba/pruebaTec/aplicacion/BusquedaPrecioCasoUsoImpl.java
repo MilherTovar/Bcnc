@@ -1,7 +1,7 @@
-package com.prueba.pruebaBcnc.aplicacion;
+package com.prueba.pruebaTec.aplicacion;
 
-import com.prueba.pruebaBcnc.infraestructura.PrecioEntidad;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.PrecioRepositorio;
+import com.prueba.pruebaTec.infraestructura.PrecioEntidad;
+import com.prueba.pruebaTec.infraestructura.repositorio.PrecioRepositorio;
 import org.openapitools.model.PreciosDTO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

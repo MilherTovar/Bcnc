@@ -1,4 +1,4 @@
-# Prueba Técnica para Bcnc
+# Prueba Técnica
 
 ##Documentación del problema
 

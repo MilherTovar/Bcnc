@@ -1,9 +1,9 @@
-package com.prueba.pruebaBcnc.aplicacion;
+package com.prueba.pruebaTec.aplicacion;
 
-import com.prueba.pruebaBcnc.infraestructura.CadenaEntidad;
-import com.prueba.pruebaBcnc.infraestructura.MonedaEntidad;
-import com.prueba.pruebaBcnc.infraestructura.PrecioEntidad;
-import com.prueba.pruebaBcnc.infraestructura.ProductoEntidad;
+import com.prueba.pruebaTec.infraestructura.CadenaEntidad;
+import com.prueba.pruebaTec.infraestructura.MonedaEntidad;
+import com.prueba.pruebaTec.infraestructura.PrecioEntidad;
+import com.prueba.pruebaTec.infraestructura.ProductoEntidad;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;

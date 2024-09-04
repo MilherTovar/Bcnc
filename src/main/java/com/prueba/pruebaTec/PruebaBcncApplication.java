@@ -1,13 +1,13 @@
-package com.prueba.pruebaBcnc;
+package com.prueba.pruebaTec;
 
-import com.prueba.pruebaBcnc.infraestructura.CadenaEntidad;
-import com.prueba.pruebaBcnc.infraestructura.MonedaEntidad;
-import com.prueba.pruebaBcnc.infraestructura.PrecioEntidad;
-import com.prueba.pruebaBcnc.infraestructura.ProductoEntidad;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.CadenaRespositorio;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.MonedaRepositorio;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.PrecioRepositorio;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.ProductoRepositorio;
+import com.prueba.pruebaTec.infraestructura.CadenaEntidad;
+import com.prueba.pruebaTec.infraestructura.MonedaEntidad;
+import com.prueba.pruebaTec.infraestructura.PrecioEntidad;
+import com.prueba.pruebaTec.infraestructura.ProductoEntidad;
+import com.prueba.pruebaTec.infraestructura.repositorio.CadenaRespositorio;
+import com.prueba.pruebaTec.infraestructura.repositorio.MonedaRepositorio;
+import com.prueba.pruebaTec.infraestructura.repositorio.PrecioRepositorio;
+import com.prueba.pruebaTec.infraestructura.repositorio.ProductoRepositorio;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,6 @@
-package com.prueba.pruebaBcnc.apiRest;
+package com.prueba.pruebaTec.apiRest;
 
-import com.prueba.pruebaBcnc.aplicacion.BusquedaPrecioCasoUso;
+import com.prueba.pruebaTec.aplicacion.BusquedaPrecioCasoUso;
 import lombok.RequiredArgsConstructor;
 import org.openapitools.api.PreciosApi;
 import org.openapitools.model.PreciosDTO;

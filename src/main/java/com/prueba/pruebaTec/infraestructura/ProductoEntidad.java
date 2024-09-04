@@ -1,4 +1,4 @@
-package com.prueba.pruebaBcnc.infraestructura;
+package com.prueba.pruebaTec.infraestructura;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

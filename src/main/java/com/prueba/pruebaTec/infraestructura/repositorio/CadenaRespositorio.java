@@ -1,6 +1,6 @@
-package com.prueba.pruebaBcnc.infraestructura.repositorio;
+package com.prueba.pruebaTec.infraestructura.repositorio;
 
-import com.prueba.pruebaBcnc.infraestructura.CadenaEntidad;
+import com.prueba.pruebaTec.infraestructura.CadenaEntidad;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

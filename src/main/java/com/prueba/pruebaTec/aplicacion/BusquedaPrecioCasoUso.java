@@ -1,4 +1,4 @@
-package com.prueba.pruebaBcnc.aplicacion;
+package com.prueba.pruebaTec.aplicacion;
 
 
 import org.openapitools.model.PreciosDTO;

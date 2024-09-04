@@ -1,6 +1,5 @@
-package com.prueba.pruebaBcnc.infraestructura;
+package com.prueba.pruebaTec.infraestructura;
 
-import jakarta.annotation.Generated;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

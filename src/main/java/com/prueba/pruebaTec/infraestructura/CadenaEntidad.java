@@ -1,4 +1,4 @@
-package com.prueba.pruebaBcnc.infraestructura;
+package com.prueba.pruebaTec.infraestructura;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
@@ -14,11 +14,12 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity
-@Table(name="MONEDA")
-public class MonedaEntidad {
-    @Id
-    private Integer monedaId;
+@Table(name="CADENA")
+public class CadenaEntidad {
 
-    @JoinColumn(name="NOMBRE_MONEDA")
-    private String monedaNombre;
+    @Id
+    @JoinColumn(name="CADENA_ID")
+    private Integer cadenaId;
+
+    private String nombreCadena;
 }

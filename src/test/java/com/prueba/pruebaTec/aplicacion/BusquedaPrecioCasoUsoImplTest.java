@@ -1,7 +1,7 @@
-package com.prueba.pruebaBcnc.aplicacion;
+package com.prueba.pruebaTec.aplicacion;
 
-import com.prueba.pruebaBcnc.infraestructura.PrecioEntidad;
-import com.prueba.pruebaBcnc.infraestructura.repositorio.PrecioRepositorio;
+import com.prueba.pruebaTec.infraestructura.PrecioEntidad;
+import com.prueba.pruebaTec.infraestructura.repositorio.PrecioRepositorio;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;

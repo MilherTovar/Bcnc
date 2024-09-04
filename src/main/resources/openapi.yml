@@ -1,8 +1,8 @@
 openapi: 3.0.3
 info:
-  title: Prueba Técnica Bcnc
+  title: Prueba Técnica
   description: |-
-    Prueba Técnica para Bcnc, consiste en una Api que consume un EndPoint para consultar datos de precios de una memoria de trabajo (h2).
+    Prueba Técnica que consiste en una Api que consume un EndPoint para consultar datos de precios de una memoria de trabajo (h2).
     
     La entrada son los siguintes parámetros: Fecha de aplicación, identificador del producto e indentificación de la cadena. la sálida es la siguiente estructura de datos: identificador de producto, identificador de cadena, tarifa a aplicar, fechas de aplicación y precio final a aplicar
   contact:
