@@ -7,8 +7,8 @@ PRICES que refleja el precio final (pvp) y la tarifa que aplica a un producto de
 entre unas fechas determinadas. A continuación se muestra un ejemplo de la tabla con
 los campos relevantes:
 
-###PRICES
--------
+### PRICES
+
 BRAND_ID START_DATE END_DATE PRICE_LIST
 PRODUCT_ID PRIORITY PRICE CURR
 
